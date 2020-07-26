@@ -1,1 +1,1 @@
-# Curos-JavaScript
+# Cruso-JavaScript
